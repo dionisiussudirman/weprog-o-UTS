@@ -1,7 +1,7 @@
 # UTS Pemrograman Web – PHP Native
 
-## 🧑 Nama: [Nama Lengkap Kamu]  
-## 🆔 NIM: [NIM Kamu]
+## 🧑 Nama: [DIONISIUS SUDIRMAN]  
+## 🆔 NIM: [2401010590]
 
 ---
 
